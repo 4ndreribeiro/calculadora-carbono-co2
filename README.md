@@ -1,4 +1,4 @@
-# 🌍 Calculadora de Emissão de CO₂ Profissional
+# 🌍 Calculadora de Emissão de CO₂
 
 Uma aplicação web moderna e sustentável que utiliza mapas reais para calcular o impacto ambiental de viagens e sugerir compensação através de créditos de carbono.
 
